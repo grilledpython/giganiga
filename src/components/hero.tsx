@@ -7,14 +7,13 @@ const Hero = () => {
     <div className='space-y-6 md:my-16'>
       <div className='flex flex-col-reverse gap-8 md:flex-row md:justify-between'>
         <div className='space-y-4 md:max-w-lg'>
-          <h1 className='text-4xl font-bold text-accent-fg'>Hong</h1>
+          <h1 className='text-4xl font-bold text-accent-fg'>Arpan</h1>
           <h2 className='text-lg font-medium text-accent-5'>
-            17 yrs • Student • Full-stack Developer
+            15 yrs • Student • Backend Developer
           </h2>
           <p className='text-lg'>
             I am a student, currently learning web development skills such as
-            Next.js, Node.js, Prisma, and database management. I can feel a
-            sense of accomplishment when my code is recognized and appreciated.
+            Next.js, Node.js, Python and PHP. I feel a sense of acomplishment when my work helps other people.
           </p>
         </div>
         <div className='h-20 w-20 md:h-28 md:w-28'>
